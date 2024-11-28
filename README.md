@@ -43,7 +43,7 @@ This project is ideal for showcasing beginner to intermediate skills in C++ prog
 The `_getch()` function from `<conio.h>` is used to hide password input by displaying `*` instead of the actual characters typed.
 
 ---
-## Full Source Code
+## Future Improvements
  - Add an admin panel for managing users.
  -  Encrypt passwords to enhance security.
  - Allow users to update their profile information.
@@ -68,4 +68,3 @@ Below is an example of how the user data is stored in the file:
 alice 1234
 bob password123
 
----
